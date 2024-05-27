@@ -2,7 +2,7 @@
 
 Sigaa Ahead! is a board game developed in Android Studio as part of a training in Java and XML. The game was created to showcase the possibilities of game development in the Android Studio environment, utilizing the resources available in this platform.
 
-In the game, players compete to accumulate the highest IP (Performance Index) score as they progress through the board, facing challenges and taking advantage of cards.
+In the game, players compete to accumulate the highest IP (Priority Index) score as they progress through the board, facing challenges and taking advantage of cards.
 
 ## How to Play 🎮
 - **Objective**: The goal of the game is to accumulate the highest IP score by the end of the board.
@@ -37,7 +37,7 @@ The game is still under development, but contributions are welcome! If you have 
 
 Sigaa em Frente! é um jogo de tabuleiro desenvolvido em Android Studio como parte de um treinamento em Java e XML. O jogo foi criado para demonstrar as possibilidades de desenvolvimento de jogos no ambiente do Android Studio, utilizando os recursos disponíveis nessa plataforma.
 
-No jogo, os jogadores competem para acumular a maior pontuação de IP (Índice de Performance) enquanto avançam pelo tabuleiro, enfrentando desafios e tirando proveito das cartas.
+No jogo, os jogadores competem para acumular a maior pontuação de IP (Índice de Prioridade) enquanto avançam pelo tabuleiro, enfrentando desafios e tirando proveito das cartas.
 
 ## Como Jogar 🎮
 - **Objetivo**: O objetivo do jogo é acumular a maior pontuação de IP até o final do tabuleiro.
